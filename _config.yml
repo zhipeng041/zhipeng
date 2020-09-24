@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: '鹏鹏的个人博客' # 你的博客网站标题
+description: '很高兴能在这里与你分享我对技术和生活的思考。' # 站点描述
+keyword: '鹏哥鹏的个人博客' # 网站关键词
+url: 'https://zhipeng.github.io' # 站点url
+baseurl: ''
+
+# Build settings
+paginate: 6 # 一页放几篇文章
+paginate_path: 'page:num'
